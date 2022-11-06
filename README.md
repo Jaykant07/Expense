@@ -1,5 +1,5 @@
 # Expenditure_website
-This is simple Html css js website for expenditure calculation ,i am working on to add data science option and export to excel option,
+This is simple HTML, CSS and JS website for expenditure calculation ,I am working on to add data science option and export to excel option.
 
 
-https://kadamkishan.github.io/Expenditure_website/
+https://github.com/Jaykant07/Expense.git 
